@@ -1,4 +1,4 @@
-package test;
+package src.main.java.bookplay;
 
 import java.io.File;
 import java.io.IOException;
@@ -13,7 +13,7 @@ import org.jsoup.select.Elements;
 
 
 public class RunMe {
-
+// boo
 	public static RunMe runMe = new RunMe();
 
 	public static void main(String[] args) throws IOException {
